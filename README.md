@@ -9,6 +9,8 @@ small working tools.
 - Prototype ideas before taking them to real projects
 - Keep examples the team can look at and reuse
 
-## Status
+## Experiments
 
-Just created. Experiments will be added as folders, each with its own short README.
+Each experiment lives in its own folder with a short README.
+
+- [snake](snake/): a basic 1 or 2 player snake game in Python
